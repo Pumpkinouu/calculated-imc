@@ -28,3 +28,18 @@ H:\Visual Studio\IMC_DaniloZivanovic\IMC_DaniloZivanovic\obj\Debug\net6.0\refint
 H:\Visual Studio\IMC_DaniloZivanovic\IMC_DaniloZivanovic\obj\Debug\net6.0\IMC_DaniloZivanovic.pdb
 H:\Visual Studio\IMC_DaniloZivanovic\IMC_DaniloZivanovic\obj\Debug\net6.0\IMC_DaniloZivanovic.genruntimeconfig.cache
 H:\Visual Studio\IMC_DaniloZivanovic\IMC_DaniloZivanovic\obj\Debug\net6.0\ref\IMC_DaniloZivanovic.dll
+C:\Users\danil\Desktop\IMC_DaniloZivanovic\IMC_DaniloZivanovic\bin\Debug\net6.0\IMC_DaniloZivanovic.exe
+C:\Users\danil\Desktop\IMC_DaniloZivanovic\IMC_DaniloZivanovic\bin\Debug\net6.0\IMC_DaniloZivanovic.deps.json
+C:\Users\danil\Desktop\IMC_DaniloZivanovic\IMC_DaniloZivanovic\bin\Debug\net6.0\IMC_DaniloZivanovic.runtimeconfig.json
+C:\Users\danil\Desktop\IMC_DaniloZivanovic\IMC_DaniloZivanovic\bin\Debug\net6.0\IMC_DaniloZivanovic.dll
+C:\Users\danil\Desktop\IMC_DaniloZivanovic\IMC_DaniloZivanovic\bin\Debug\net6.0\IMC_DaniloZivanovic.pdb
+C:\Users\danil\Desktop\IMC_DaniloZivanovic\IMC_DaniloZivanovic\obj\Debug\net6.0\IMC_DaniloZivanovic.csproj.AssemblyReference.cache
+C:\Users\danil\Desktop\IMC_DaniloZivanovic\IMC_DaniloZivanovic\obj\Debug\net6.0\IMC_DaniloZivanovic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\Desktop\IMC_DaniloZivanovic\IMC_DaniloZivanovic\obj\Debug\net6.0\IMC_DaniloZivanovic.AssemblyInfoInputs.cache
+C:\Users\danil\Desktop\IMC_DaniloZivanovic\IMC_DaniloZivanovic\obj\Debug\net6.0\IMC_DaniloZivanovic.AssemblyInfo.cs
+C:\Users\danil\Desktop\IMC_DaniloZivanovic\IMC_DaniloZivanovic\obj\Debug\net6.0\IMC_DaniloZivanovic.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\IMC_DaniloZivanovic\IMC_DaniloZivanovic\obj\Debug\net6.0\IMC_DaniloZivanovic.dll
+C:\Users\danil\Desktop\IMC_DaniloZivanovic\IMC_DaniloZivanovic\obj\Debug\net6.0\refint\IMC_DaniloZivanovic.dll
+C:\Users\danil\Desktop\IMC_DaniloZivanovic\IMC_DaniloZivanovic\obj\Debug\net6.0\IMC_DaniloZivanovic.pdb
+C:\Users\danil\Desktop\IMC_DaniloZivanovic\IMC_DaniloZivanovic\obj\Debug\net6.0\IMC_DaniloZivanovic.genruntimeconfig.cache
+C:\Users\danil\Desktop\IMC_DaniloZivanovic\IMC_DaniloZivanovic\obj\Debug\net6.0\ref\IMC_DaniloZivanovic.dll
